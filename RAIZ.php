@@ -76,7 +76,7 @@ $emo=array (
 $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-' '.$zrilta.' CHBOTTER-GREETING, TK  '.$hamza.'  ', 
+' '.$zrilta.' CHBOTTER <3 SAGORBD,TK'.$hamza.'  ', 
 );
 
 $comments = $text[rand(0,count($text)-1)];
